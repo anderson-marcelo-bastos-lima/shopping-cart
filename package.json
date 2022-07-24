@@ -1,6 +1,6 @@
 {
-  "homepage": "https://anderson-marcelo-bastos-lima.github.io/shopping-cart",
   "name": "shopping-cart",
+  "homepage": "https://anderson-marcelo-bastos-lima.github.io/shopping-cart/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
